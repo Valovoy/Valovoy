@@ -1,23 +1,63 @@
-## Hi there 👋
+# Hi, I'm Oleksandr 👋
 
-I’m Aleksandr Valovoy, a creative and solution-driven Frontend Developer with over 6 years of experience in building intuitive and engaging user interfaces. My tech stack includes React, JavaScript, TypeScript, and React Native. I also have a strong background in Redux, React Query, and GraphQL, and I’m constantly exploring new tools to stay at the cutting edge of modern web development.<br><br>💡 I believe in continuous learning and always strive to follow best practices, ensuring that my code is maintainable, scalable, and well-structured.<br><br>Let’s create something extraordinary together! 🌍
+Senior Frontend Engineer with 8+ years of commercial experience building production web and mobile applications.
 
-## 🌐 Socials:
+My main stack is **React, Next.js, TypeScript, and React Native**.  
+I focus on scalable frontend architecture, maintainable code, performance, and complex product functionality.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksandr-valovoy-a5ab0a137/)
+Throughout my career, I've worked on FinTech, dating, real-time communication, and consultation platforms. I've also taken ownership of frontend technical decisions, mentored developers, participated in code reviews and technical interviews, and collaborated closely with backend and product teams.
 
-# 💻 Tech Stack:
+Currently, I'm also exploring **AI Engineering and agentic development workflows**, using tools such as Cursor and Codex in my development process.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🛠 Tech Stack
 
-# 📊 GitHub Stats:
+**Core**
 
-![](https://github-readme-stats.vercel.app/api?username=Valovoy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Valovoy&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Valovoy&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
+**Frontend**
 
-[![](https://visitcount.itsvg.in/api?id=Valovoy&icon=0&color=0)](https://visitcount.itsvg.in)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Testing & Tools**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
+## 🤖 AI-Assisted Development
+
+I use AI-assisted development tools as part of my regular engineering workflow:
+
+- Cursor
+- Codex
+- AI agents and subagents
+- Planning, implementation, and code-review workflows
+
+I'm currently expanding my knowledge of **LLMs, RAG, embeddings, tool calling, memory, and AI agents** through hands-on experiments and projects.
+
+## 🚀 Current Focus
+
+- Advanced React and Next.js architecture
+- Frontend system design
+- React Native
+- Node.js
+- AI Engineering
+- Agentic development workflows
+
+## 🤝 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleksandr_Valovoi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-valovoi-a5ab0a137/)
