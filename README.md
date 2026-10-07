@@ -7,7 +7,7 @@ I focus on scalable frontend architecture, maintainable code, performance, and c
 
 Throughout my career, I've worked on FinTech, dating, real-time communication, and consultation platforms. I've also taken ownership of frontend technical decisions, mentored developers, participated in code reviews and technical interviews, and collaborated closely with backend and product teams.
 
-Currently, I'm also exploring **AI Engineering and agentic development workflows**, using tools such as Cursor and Codex in my development process.
+I'm also expanding into **backend development and AI Engineering**, building hands-on projects with Node.js and exploring agentic development workflows with tools such as Cursor and Codex.
 
 ## 🛠 Tech Stack
 
@@ -26,17 +26,19 @@ Currently, I'm also exploring **AI Engineering and agentic development workflows
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 **Testing & Tools**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Backend & APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
 ## 🤖 AI-Assisted Development
 
@@ -44,8 +46,8 @@ I use AI-assisted development tools as part of my regular engineering workflow:
 
 - Cursor
 - Codex
-- AI agents and subagents
-- Planning, implementation, and code-review workflows
+- Agent-based development workflows
+- AI-assisted planning, implementation, and code review
 
 I'm currently expanding my knowledge of **LLMs, RAG, embeddings, tool calling, memory, and AI agents** through hands-on experiments and projects.
 
@@ -53,8 +55,7 @@ I'm currently expanding my knowledge of **LLMs, RAG, embeddings, tool calling, m
 
 - Advanced React and Next.js architecture
 - Frontend system design
-- React Native
-- Node.js
+- Node.js and backend development
 - AI Engineering
 - Agentic development workflows
 
